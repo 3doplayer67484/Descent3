@@ -176,7 +176,7 @@ extern bool Descent_overrided_intro;
 // This is the default FOV
 #define D3_DEFAULT_FOV 95.0
 // This is the default zoom factor to be used for the game 3D view.
-#define D3_DEFAULT_ZOOM 0.726f
+#define D3_DEFAULT_ZOOM 0.950f
 
 // How long the a mission name can be
 #define MSN_NAMELEN 32
