@@ -306,7 +306,7 @@ typedef enum tHUDMode {
 #define MAX_HUD_ITEMS 32
 #define HUD_COLOR GR_RGB(0, 255, 0)
 #define HUD_ALPHA 192
-#define HUD_ZOOM 0.95f
+#define HUD_ZOOM 0.56f
 
 #define HUD_MSG_PERSISTENT_INFINITE 10000.0f
 #define HUD_MSG_PERSISTENT_CENTER -1
